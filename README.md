@@ -1,4 +1,4 @@
-# Sequential-Simulation-based-inference-in-diffusion-model
+# Sequential-diffusion-model-for-SBI
 
 Hello! I am Wang Dongshan. This code is the implementation for my dissertation during the MSc in Statistics program (2023/24 academic year) in the Department of Statistics at the University of Warwick. The dissertation is titled **Sequential Denoising Diffusion Models for Simulation-Based Inference.**
 
